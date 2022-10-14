@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shopping_cart/static/css/main.13486e95.css",
+    "main.js": "/shopping_cart/static/js/main.beacc594.js",
+    "static/js/787.d6fe38e8.chunk.js": "/shopping_cart/static/js/787.d6fe38e8.chunk.js",
+    "static/media/logo.png": "/shopping_cart/static/media/logo.4c333d91ed859938143e.png",
+    "static/media/Salmon_Roll.jpg": "/shopping_cart/static/media/Salmon_Roll.34e94c84c4ad1c0c8a33.jpg",
+    "static/media/Nigiri_Set.jpg": "/shopping_cart/static/media/Nigiri_Set.ec70a934e76c4fcd8521.jpg",
+    "static/media/Ikura.jpg": "/shopping_cart/static/media/Ikura.ba55385b01c1f4ba7f5d.jpg",
+    "static/media/Futomaki.jpg": "/shopping_cart/static/media/Futomaki.fb157587384b16b63907.jpg",
+    "static/media/Chirashi_Sushi.jpg": "/shopping_cart/static/media/Chirashi_Sushi.c947d3039ea7ca064388.jpg",
+    "static/media/Inari_Sushi.jpg": "/shopping_cart/static/media/Inari_Sushi.402b66d473fbece8f0d8.jpg",
+    "static/media/Toro_Nigiri.jpg": "/shopping_cart/static/media/Toro_Nigiri.18ded201eb489a16de57.jpg",
+    "static/media/Unagi_Nigiri.jpg": "/shopping_cart/static/media/Unagi_Nigiri.d7a24719baa2b6ff4d4f.jpg",
+    "index.html": "/shopping_cart/index.html",
+    "main.13486e95.css.map": "/shopping_cart/static/css/main.13486e95.css.map",
+    "main.beacc594.js.map": "/shopping_cart/static/js/main.beacc594.js.map",
+    "787.d6fe38e8.chunk.js.map": "/shopping_cart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13486e95.css",
+    "static/js/main.beacc594.js"
+  ]
+}
