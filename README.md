@@ -1,6 +1,8 @@
 ## Shopping Cart 
 
-This is an assignment of The Odin Project to learn how to using router and tesing in react. 
+This is an assignment of The Odin Project to learn how to using router and tesing in react.
+
+You can check the page here. https://satoshi-sh.github.io/shopping_cart/
 
 #Credit 
 icon: https://iconarchive.com/show/swarm-icons-by-sonya/Sushi-icon.html
