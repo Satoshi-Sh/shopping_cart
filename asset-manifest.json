@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopping_cart/static/css/main.13486e95.css",
-    "main.js": "/shopping_cart/static/js/main.beacc594.js",
+    "main.js": "/shopping_cart/static/js/main.9d9ab1e4.js",
     "static/js/787.d6fe38e8.chunk.js": "/shopping_cart/static/js/787.d6fe38e8.chunk.js",
     "static/media/logo.png": "/shopping_cart/static/media/logo.4c333d91ed859938143e.png",
     "static/media/Salmon_Roll.jpg": "/shopping_cart/static/media/Salmon_Roll.34e94c84c4ad1c0c8a33.jpg",
@@ -14,11 +14,11 @@
     "static/media/Unagi_Nigiri.jpg": "/shopping_cart/static/media/Unagi_Nigiri.d7a24719baa2b6ff4d4f.jpg",
     "index.html": "/shopping_cart/index.html",
     "main.13486e95.css.map": "/shopping_cart/static/css/main.13486e95.css.map",
-    "main.beacc594.js.map": "/shopping_cart/static/js/main.beacc594.js.map",
+    "main.9d9ab1e4.js.map": "/shopping_cart/static/js/main.9d9ab1e4.js.map",
     "787.d6fe38e8.chunk.js.map": "/shopping_cart/static/js/787.d6fe38e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13486e95.css",
-    "static/js/main.beacc594.js"
+    "static/js/main.9d9ab1e4.js"
   ]
 }
